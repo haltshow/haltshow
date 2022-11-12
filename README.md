@@ -1,5 +1,5 @@
 ### 👋 Olá,
-    Sou Gabriel Abreu e sou desenvolvedor web!
+    Sou Gabriel Abreu e sou Desenvolvedor Web!
 
 - 👨‍💻 Trabalho, atualmente, com VueJS e Laravel
 - 🖥 Estou estudando ReactJS e Python
