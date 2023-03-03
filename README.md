@@ -1,7 +1,7 @@
 ### 👋
     Sou Gabriel Abreu e sou Desenvolvedor Web!
 
-- Trabalho com VueJS,Laravel, React, Python e etc...
+- Trabalho com VueJS, Laravel, React, Python e etc...
 
 <div align="center">
   <a href="https://github.com/haltshow">
