@@ -1,7 +1,6 @@
 ### 👋
-    Sou Gabriel Abreu e sou Desenvolvedor Web!
-
-- Trabalho com VueJS, Laravel, React, Python e etc...
+    Sou Gabriel Abreu e sou Desenvolvedor Web FullStack!
+    Trabalho com VueJS, Laravel, React, Python e etc...
 
 <div align="center">
   <a href="https://github.com/haltshow">
